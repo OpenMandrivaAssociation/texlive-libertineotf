@@ -98,3 +98,11 @@ release in Adobe Type 1 format).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 5.13.8-1
++ Revision: 790646
+- Import texlive-libertineotf
+- Import texlive-libertineotf
+
