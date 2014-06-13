@@ -6,7 +6,7 @@
 # catalog-version 5.13-8
 Name:		texlive-libertineotf
 Version:	5.13.8
-Release:	5
+Release:	6
 Summary:	Linux Libertine fonts for use with lua(La)TeX and xe(La)TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/libertineotf
