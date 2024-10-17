@@ -9,7 +9,7 @@ Version:	5.13.8
 Release:	12
 Summary:	Linux Libertine fonts for use with lua(La)TeX and xe(La)TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/libertineotf
+URL:		https://www.ctan.org/tex-archive/fonts/libertineotf
 License:	GPL2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertineotf.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertineotf.doc.tar.xz
